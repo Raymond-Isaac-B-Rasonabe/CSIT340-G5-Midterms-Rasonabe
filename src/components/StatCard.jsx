@@ -9,4 +9,4 @@ function App({value, label}){
     );
 }
 
-export default App
+export default App;
